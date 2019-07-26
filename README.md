@@ -6,4 +6,6 @@ For complete transparency and reproducibility of our results, we share all data 
 ## Requirements
 * NumPy
 * Pandas
+* Scikit-learn
 * Matplotlib
+
