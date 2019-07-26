@@ -8,4 +8,6 @@ For complete transparency and reproducibility of our results, we share all data 
 * Pandas
 * Scikit-learn
 * Matplotlib
+* Itertools
+
 
