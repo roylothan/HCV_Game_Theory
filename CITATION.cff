@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: HCV_Game_Theory
+message: 'This GitHub repository is part of the work detailed in HCMS: "Country versus Pharmaceutical Company Interests for Hepatitis C Treatment". If you use this repository, please cite it as below'
+type: software
+authors:
+  - given-names: Roy
+    family-names: Lothan
+    email: roylothan@gmail.com
+    orcid: 'https://orcid.org/0000-0001-9854-6009'
+date-released: 2020-08-01
+
